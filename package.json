@@ -1,0 +1,10 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ha1lowe3n <Ha1lowe3n@yandex.ru>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
+}
